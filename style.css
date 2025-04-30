@@ -1,7 +1,7 @@
 /* style.css */
 body {
     font-family: Arial, sans-serif;
-    background-color: #94fc03;
+    background-color: #blue;
     color: #333;
     margin: 0;
     padding: 0;
@@ -22,7 +22,7 @@ ul {
 }
 
 ul li {
-    background-color: #eeeeee;
+    background-color: #brown;
     margin: 5px;
     padding: 8px;
     border-radius: 5px;
